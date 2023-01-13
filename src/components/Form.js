@@ -51,3 +51,5 @@ function Form() {
     </form>
   );
 }
+
+export default Form;
